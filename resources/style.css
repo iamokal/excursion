@@ -1,0 +1,16 @@
+html {
+	background-color: black;
+	text-align: center;
+	font: verdana;
+}
+
+.headline {
+	font-weight: normal;
+	font-size: 50px;
+	color: white;
+}
+
+.templink {
+	color: Aquamarine;
+	font-size: 16px;
+}
